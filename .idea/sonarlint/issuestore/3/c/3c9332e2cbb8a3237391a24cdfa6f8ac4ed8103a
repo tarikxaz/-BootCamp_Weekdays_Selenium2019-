@@ -1,0 +1,25 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ø‰çûÿÿÿÿ
+±%squid:RedundantThrowsDeclarationCheck0"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(«Õãþùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À€‹Çûÿÿÿÿ
+¬%squid:RedundantThrowsDeclarationCheck#"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+¦%squid:RedundantThrowsDeclarationCheck0"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(«Õãþùÿÿÿÿ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(‘Ú–ôøÿÿÿÿ
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ÖÖßþùÿÿÿÿ
+Fsquid:S2440"*Remove this instantiation of "DataReader".(Õ„ø‰ùÿÿÿÿ
+psquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+Ksquid:S22093"5Change this instance-reference to a static reference.(…Ñâb
+¡%squid:RedundantThrowsDeclarationCheck#"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+‰"squid:ClassVariableVisibilityCheck"VMake dataReader a static final constant or non-public and provide accessors if needed.(Õ„ø‰ùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck0"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(«Õãþùÿÿÿÿ
+csquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(«Õãþùÿÿÿÿ
+ssquid:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "data".(Ò¢Ãº
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"ZMake connectToSqlDB a static final constant or non-public and provide accessors if needed.(³³¨Õ
+psquid:S3012;"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŸÜ”å
+Ÿ%squid:RedundantThrowsDeclarationCheck#"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+Osquid:S1854$"8Remove this useless assignment to local variable "list".(ŠŒÖ
+Lsquid:S2209,"5Change this instance-reference to a static reference.(Ò¢Ãº
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Çœ¯úÿÿÿÿ
+Xsquid:S2209%"5Change this instance-reference to a static reference.(¢Õ¥ÿÿÿÿÿ8¨‚÷¡‡.

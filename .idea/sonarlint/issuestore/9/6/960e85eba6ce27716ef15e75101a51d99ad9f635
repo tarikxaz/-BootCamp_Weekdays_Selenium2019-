@@ -1,0 +1,25 @@
+
+Ÿ%squid:RedundantThrowsDeclarationCheck$"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+psquid:S3012<"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŸÜ”å
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ø‰çûÿÿÿÿ
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‘Ú–ôøÿÿÿÿ
+Osquid:S1854%"8Remove this useless assignment to local variable "list".(ŠŒÖ
+psquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+ssquid:S1488-"\Immediately return this expression instead of assigning it to the temporary variable "data".(Ò¢Ãº
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À€‹Çûÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheck1"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Íååô
+¬%squid:RedundantThrowsDeclarationCheck$"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+¡%squid:RedundantThrowsDeclarationCheck1"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Íååô
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Çœ¯úÿÿÿÿ
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ÖÖßşùÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake dataReader a static final constant or non-public and provide accessors if needed.(Õ„ø‰ùÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"ZMake connectToSqlDB a static final constant or non-public and provide accessors if needed.(³³¨Õ
+^squid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(Íååô
+¡%squid:RedundantThrowsDeclarationCheck$"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ô’”î
+¬%squid:RedundantThrowsDeclarationCheck1"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(Íååô
+Msquid:S2440"*Remove this instantiation of "DataReader".(Õ„ø‰ùÿÿÿÿ8´Øõ¡‡.
+Xsquid:S2209&"5Change this instance-reference to a static reference.(¢Õ¥ÿÿÿÿÿ8´Øõ¡‡.
+Ssquid:S2209-"5Change this instance-reference to a static reference.(Ò¢Ãº8´Øõ¡‡.
+Rsquid:S22094"5Change this instance-reference to a static reference.(…Ñâb8´Øõ¡‡.

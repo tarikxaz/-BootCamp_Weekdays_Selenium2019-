@@ -1,0 +1,15 @@
+
+_squid:S2259O"CA "NullPointerException" could be thrown; "value" is nullable here.(¥ëÿíýÿÿÿÿ
+Psquid:S1118":Add a private constructor to hide the implicit public one.(ç¦§$
+asquid:CallToDeprecatedMethodE"9Remove this use of "CELL_TYPE_NUMERIC"; it is deprecated.(è……å
+esquid:CallToDeprecatedMethodH"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(ÿ©å§ûÿÿÿÿ
+asquid:CallToDeprecatedMethodK"9Remove this use of "CELL_TYPE_BOOLEAN"; it is deprecated.(é²ìÀ
+msquid:S3252H"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(ÿ©å§ûÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "data".(”ú¯‰
+Tsquid:S1854,"8Remove this useless assignment to local variable "data".(íÉÑŠÿÿÿÿÿ
+Esquid:S1659")Declare "numberOfCol" on a separate line.(Ö™Àªÿÿÿÿÿ
+[squid:CallToDeprecatedMethodC"3Remove this use of "getCellType"; it is deprecated.(™Öõ¸
+P"squid:SwitchLastCaseIsDefaultCheckD""Add a default case to this switch.(ÚÆ§î
+isquid:S3252K"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(é²ìÀ
+isquid:S3252E"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(è……å
+@squid:S1659"$Declare "rowNum" on a separate line.(Ö™Àªÿÿÿÿÿ
